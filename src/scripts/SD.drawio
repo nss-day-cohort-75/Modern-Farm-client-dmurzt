@@ -1,0 +1,187 @@
+<mxfile host="65bd71144e">
+    <diagram id="05doUx2PXkNjTUam5nD5" name="Page-1">
+        <mxGraphModel dx="2847" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-4" target="nMAUGsnpo5108-Vg_hIt-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-4" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-5" value="plan.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-9" value="createplan is invoked and the return is stored in a variable called yearlyplan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="160" width="130" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="w7bY9jyqoJM6l1bvVvRw-9" value="seeds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="-110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-15" target="nMAUGsnpo5108-Vg_hIt-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-15" value="corn.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-23" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-16" target="nMAUGsnpo5108-Vg_hIt-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-16" value="soyBean.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7bY9jyqoJM6l1bvVvRw-10" target="nMAUGsnpo5108-Vg_hIt-25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="w7bY9jyqoJM6l1bvVvRw-10" value="sunflower.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7bY9jyqoJM6l1bvVvRw-11" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="w7bY9jyqoJM6l1bvVvRw-11" value="wheat.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1010" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-17" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-17" value="asparagus.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-18" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-18" value="potato.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1155" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="-105" width="20" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="1310" y="-100" width="20" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-37" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-20" target="nMAUGsnpo5108-Vg_hIt-36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-20" value="field.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-22" target="nMAUGsnpo5108-Vg_hIt-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-22" value="createSoyBean function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="nMAUGsnpo5108-Vg_hIt-33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="createAspargus&lt;br&gt;function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-24" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-24" value="createCorn&lt;br&gt;function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="nMAUGsnpo5108-Vg_hIt-34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="creatPotato function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1155" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-25" target="nMAUGsnpo5108-Vg_hIt-32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-25" value="createSunflower&lt;br&gt;function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-31" value="creates a object with the properties of type height and output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="16" target="nMAUGsnpo5108-Vg_hIt-29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="createWheat&lt;br&gt;function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1010" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-29" value="creates a object with the properties of type height and output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1010" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="createCorn should have two identical objects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="595" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-32" value="creates a object with the properties of type height and output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-33" value="creates a object with the properties of type height and output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-34" value="creates a object with the properties of type height and output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1155" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-39" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-36" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-36" value="define an empty array that will store all the plants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-40" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="27" target="nMAUGsnpo5108-Vg_hIt-38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="define function addPlant must accept seed object in input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-38" value="define a function called usePlants that creates a copy of the array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-41" target="nMAUGsnpo5108-Vg_hIt-42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-41" value="tractor.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-280" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-42" value="define and export a plantSeeds function&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-280" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-45" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="31" target="nMAUGsnpo5108-Vg_hIt-43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="harvester.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-450" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-46" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-43" target="nMAUGsnpo5108-Vg_hIt-44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-43" value="create harvestPlants function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-450" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-47" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-44" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-44" value="the function will accept the plants array as input and return an array of seed objects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-450" y="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="half of the corn will be sold to cattle ranchers so only half output added to the array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-450" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-49" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33" target="nMAUGsnpo5108-Vg_hIt-48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="catalog.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-50" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMAUGsnpo5108-Vg_hIt-48" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nMAUGsnpo5108-Vg_hIt-48" value="create a catalog function should accept the harvest food array as input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="iterate the array with html representation of a food item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-600" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
