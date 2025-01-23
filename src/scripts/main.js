@@ -3,6 +3,7 @@ import { addPlant, usePlants } from "./field.js"
 import { catalog } from "./catalog.js"
 import { plantSeeds } from "./tractor.js"
 
+
 console.log("Welcome to the main module")
 
 const plan = createPlan()
