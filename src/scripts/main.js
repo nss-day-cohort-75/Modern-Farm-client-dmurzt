@@ -1,9 +1,7 @@
-// import { createPlan } from "./plan"
-import { createAsparagus } from "./seeds/asparagus.js"
+import { createPlan } from "./plan.js"
+
 
 console.log("Welcome to the main module")
 
-// const plan = createPlan()
+const plan = createPlan()
 
-let test = createAsparagus("Asparagus", 20 , 4)
-console.log(test)
