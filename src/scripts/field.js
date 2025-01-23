@@ -1,13 +1,15 @@
 let plantStorage = []
 
 export const addPlant = (seeds) => {
-if (Array.isArray(seeds) === true) {
-    seeds.map(seed => {
-        plantStorage.push(seed)
+    seeds.map(miniArr => {
+        if (Array.isArray(miniArr) === true) {
+            miniArr.map(seed => {
+                plantStorage.push(seed)
+            })
+        } else {
+            plantStorage.push(miniArr)
+        }
     })
-} else {
-    plantStorage.push(seeds)
-}
 return plantStorage
 }
 
