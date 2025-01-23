@@ -1,5 +1,5 @@
-import { createPlan } from "./plan"
+// import { createPlan } from "./plan"
 
-console.log("Welcome to the main module")
+// console.log("Welcome to the main module")
 
-const plan = createPlan()
+// const plan = createPlan()
