@@ -1,8 +1,8 @@
-export const createPotato = (typeId, heightId, outputId) => {
+export const createPotato = () => {
     const potatoObject = {
-        type:typeId,
-        height:heightId,
-        output: outputId
+        type: "potato",
+        height: 32,
+        output: 2
     }
     return potatoObject
 }

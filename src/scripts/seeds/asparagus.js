@@ -1,8 +1,8 @@
-export const createAsparagus = (typeId, heightId, outputId) => {
+export const createAsparagus = () => {
     const asparagusObject = {
-        type:typeId,
-        height:heightId,
-        output: outputId
+        type: "asparagus",
+        height: 24,
+        output: 4
     }
     return asparagusObject
 }

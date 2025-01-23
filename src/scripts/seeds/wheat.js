@@ -1,8 +1,8 @@
-export const createWheat = (typeId, heightId, outputId) => {
+export const createWheat = () => {
     const wheatObject = {
-        type:typeId,
-        height:heightId,
-        output: outputId
+        type: "wheat",
+        height: 230,
+        output: 6
     }
     return wheatObject
 }
