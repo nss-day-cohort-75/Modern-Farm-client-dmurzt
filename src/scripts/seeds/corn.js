@@ -1,12 +1,12 @@
 export const createCorn = () => {
     const corn1 = {
-        type: 'corn',
+        type: 'Corn',
         height: 180,
         output: 6
     }
 
     const corn2 = {
-        type: 'corn',
+        type: 'Corn',
         height: 180,
         output: 6
     }
