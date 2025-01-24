@@ -13,7 +13,7 @@ export const addPlant = (seeds) => {
 return plantStorage
 }
 
-export const usePlants = (plants) => {
-    let copiedPlants = plants.map((plant) => plant)
+export const usePlants = () => {
+    let copiedPlants = plantStorage.map((plant) => plant)
     return copiedPlants
 }
