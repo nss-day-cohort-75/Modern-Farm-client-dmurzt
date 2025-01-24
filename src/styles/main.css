@@ -41,6 +41,7 @@ html {
 .container {
   
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     flex-wrap: wrap;
     object-fit: fill;
@@ -50,4 +51,8 @@ section {
     font-weight: bolder;
     font-size:  1.7rem;
     padding: 2rem;
+}
+i {
+    font-size: 4rem;
+    padding: 10px;
 }
