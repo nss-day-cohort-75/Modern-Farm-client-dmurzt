@@ -10,8 +10,8 @@ console.log("Welcome to the main module")
 const plan = createPlan()
 
 const tractor = plantSeeds(plan)
-const field = addPlant(tractor)
-const useablePlants = usePlants(field)
+addPlant(tractor)
+const useablePlants = usePlants()
 const harvestedPlants = harvestPlants(useablePlants)
 
 const placeHTML = document.querySelector(".container")
