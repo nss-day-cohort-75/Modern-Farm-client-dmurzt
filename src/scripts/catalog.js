@@ -47,9 +47,6 @@ export const catalog = (HarvestedFoods) => {
         })
     })
 
-    console.table(foodList)
-
-
     let foodHTML = ``
     foodList.map(food => {
         foodHTML += `<section class="plant">${food.type} ${food.output}<i>${food.img}</i></section>`
