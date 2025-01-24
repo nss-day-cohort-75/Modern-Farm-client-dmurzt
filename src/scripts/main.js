@@ -14,6 +14,7 @@ addPlant(tractor)
 const useablePlants = usePlants()
 const harvestedPlants = harvestPlants(useablePlants)
 
+
 const placeHTML = document.querySelector(".container")
 const listHTML = catalog(harvestedPlants)
 placeHTML.innerHTML = listHTML
