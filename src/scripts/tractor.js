@@ -5,6 +5,7 @@ import { createSoybean } from "./seeds/soyBean.js"
 import { createSunflower } from "./seeds/sunflower.js"
 import { createWheat } from "./seeds/wheat.js"
 
+
 const seedsCompareList = ["Asparagus", "Corn", "Potato", "Soybean", "Sunflower", "Wheat"]
 const seedsFuncList = [createAsparagus(), createCorn(), createPotato(), createSoybean(), createSunflower(), createWheat()]
 

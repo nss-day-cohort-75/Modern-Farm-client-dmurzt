@@ -11,8 +11,8 @@ export const barn = () => {
         peek: (crop) => {
             return crop.type
         },
-        isEmpty: (crop) => {
-            if (crop.length === 0) {
+        isEmpty: () => {
+            if (storageBarn.length === 0) {
                 return true
             } else {
                 return false
